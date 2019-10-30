@@ -1,0 +1,19 @@
+{
+  "name": "aido-cron",
+  "version": "1.0.0",
+  "description": "A plugin to add cron-like capabilities to Aido applications",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
