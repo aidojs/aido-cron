@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/aidojs/aido-cron/issues"
   },
-  "author": "",
+  "author": "Damien BUTY <dam.buty@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cron": "^1.7.1",
