@@ -1,6 +1,6 @@
 {
   "name": "aido-cron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to add cron-like capabilities to Aido applications",
   "main": "lib/index.js",
   "directories": {
